@@ -1,0 +1,39 @@
+/* ============================================
+   NM BEAUTY BAR — Glam urbano
+   Palette: dark chic #17161C · rosa polvere #D8A0A6 · oro #C9A227
+   ============================================ */
+:root {
+  /* Colori */
+  --ink: #17161C;            /* fondo scuro principale */
+  --ink-2: #1F1E26;          /* fondo scuro elevato */
+  --ink-3: #2A2933;          /* bordi su scuro */
+  --rosa: #D8A0A6;           /* rosa polvere — accento caldo */
+  --rosa-deep: #B97F86;      /* rosa polvere profondo (hover) */
+  --oro: #C9A227;            /* oro — accento premium */
+  --oro-light: #E3C566;      /* oro chiaro (light sweep) */
+  --carta: #F4F2F3;          /* chiaro alternato (freddo-neutro, non sabbia) */
+  --carta-2: #EAE7E9;
+  --testo-chiaro: #F6F4F5;
+  --testo-scuro: #17161C;
+  --testo-muto-chiaro: #A8A5B0;  /* su scuro — contrasto ok su #17161C */
+  --testo-muto-scuro: #56525E;   /* su chiaro */
+
+  /* Tipografia */
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body: 'Inter', 'Segoe UI', Arial, sans-serif;
+
+  /* Spazi */
+  --sp-1: 0.5rem;
+  --sp-2: 1rem;
+  --sp-3: 1.5rem;
+  --sp-4: 2.5rem;
+  --sp-5: 4rem;
+  --sp-6: 7rem;
+  --container: 1180px;
+
+  /* Motion */
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --dur: 0.5s;
+
+  --radius: 14px;
+}
